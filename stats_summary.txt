@@ -1,0 +1,4 @@
+Slow threshold w <= 0.5491803278688525
+Connecting slow=309, not_slow=1623
+Nonconnecting slow=1253, not_slow=6550
+Odds Ratio=0.9952454220775868

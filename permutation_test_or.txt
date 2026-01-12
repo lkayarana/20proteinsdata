@@ -1,0 +1,5 @@
+Observed OR = 0.995245
+B = 5000
+Permutation p (greater) = 0.4983
+Permutation p (less)    = 0.529894
+Permutation p (two-sided)= 0.972805

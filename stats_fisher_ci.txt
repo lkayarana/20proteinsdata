@@ -1,0 +1,11 @@
+=== 2x2 Table (rows: region, cols: slow/not slow) ===
+Connecting:    slow=309  not_slow=1623  (%slow=15.99%)
+Non-connecting slow=1253  not_slow=6550  (%slow=16.06%)
+
+Odds Ratio (Table2x2) = 0.995245
+95% CI for OR        = [0.868836, 1.140046]
+
+=== Fisher's Exact Test p-values ===
+Two-sided  p = 0.972387
+One-sided (greater; H1 OR>1) p = 0.539312
+One-sided (less;    H1 OR<1) p = 0.488263

@@ -1,0 +1,158 @@
+accession	feature_type	start_aa	end_aa	description
+Q45614	Topological domain	1	13	Cytoplasmic
+Q45614	Transmembrane	14	34	Helical
+Q45614	Topological domain	35	182	Extracellular
+Q45614	Transmembrane	183	203	Helical
+Q45614	Topological domain	204	611	Cytoplasmic
+Q45614	Domain	204	256	HAMP
+Q45614	Domain	263	324	PAS
+Q45614	Domain	325	379	PAC
+Q45614	Domain	383	602	Histidine kinase
+P35164	Topological domain	1	10	Cytoplasmic
+P35164	Transmembrane	11	31	Helical
+P35164	Topological domain	32	172	Extracellular
+P35164	Transmembrane	173	193	Helical
+P35164	Topological domain	194	589	Cytoplasmic
+P35164	Domain	194	246	HAMP
+P35164	Domain	253	320	PAS
+P35164	Domain	371	589	Histidine kinase
+Q99027	Topological domain	1	9	Cytoplasmic
+Q99027	Transmembrane	10	33	Helical
+Q99027	Topological domain	34	113	Extracellular
+Q99027	Transmembrane	114	134	Helical
+Q99027	Topological domain	135	144	Cytoplasmic
+Q99027	Transmembrane	145	167	Helical
+Q99027	Topological domain	168	235	Extracellular
+Q99027	Transmembrane	236	257	Helical
+Q99027	Topological domain	258	272	Cytoplasmic
+Q99027	Transmembrane	273	295	Helical
+Q99027	Topological domain	296	299	Extracellular
+Q99027	Transmembrane	300	323	Helical
+Q99027	Topological domain	324	337	Cytoplasmic
+Q99027	Transmembrane	338	357	Helical
+Q99027	Topological domain	358	361	Extracellular
+Q99027	Transmembrane	362	383	Helical
+Q99027	Topological domain	384	769	Cytoplasmic
+Q99027	Domain	571	769	Histidine kinase
+O32193	Topological domain	1	9	Cytoplasmic
+O32193	Transmembrane	10	30	Helical
+O32193	Topological domain	31	165	Extracellular
+O32193	Transmembrane	166	186	Helical
+O32193	Topological domain	187	451	Cytoplasmic
+O32193	Domain	187	239	HAMP
+O32193	Domain	247	451	Histidine kinase
+O31516	Topological domain	1	17	Cytoplasmic
+O31516	Transmembrane	18	38	Helical
+O31516	Topological domain	39	286	Extracellular
+O31516	Transmembrane	287	307	Helical
+O31516	Topological domain	308	577	Cytoplasmic
+O31516	Domain	312	368	HAMP
+O31516	Domain	365	574	Histidine kinase
+P94414	Topological domain	1	9	Cytoplasmic
+P94414	Transmembrane	10	30	Helical
+P94414	Topological domain	31	164	Extracellular
+P94414	Transmembrane	165	185	Helical
+P94414	Topological domain	186	473	Cytoplasmic
+P94414	Domain	187	239	HAMP
+P94414	Domain	254	470	Histidine kinase
+O34638	Topological domain	1	12	Cytoplasmic
+O34638	Transmembrane	13	33	Helical
+O34638	Topological domain	34	153	Extracellular
+O34638	Transmembrane	154	174	Helical
+O34638	Topological domain	175	454	Cytoplasmic
+O34638	Domain	176	230	HAMP
+O34638	Domain	238	450	Histidine kinase
+O05250	Topological domain	1	9	Cytoplasmic
+O05250	Transmembrane	10	32	Helical
+O05250	Topological domain	33	172	Extracellular
+O05250	Transmembrane	173	195	Helical
+O05250	Topological domain	196	533	Cytoplasmic
+O05250	Domain	210	281	PAS
+O05250	Domain	335	527	Histidine kinase
+O06979	Topological domain	1	11	Cytoplasmic
+O06979	Transmembrane	12	32	Helical
+O06979	Topological domain	33	42	Extracellular
+O06979	Transmembrane	43	63	Helical
+O06979	Topological domain	64	356	Cytoplasmic
+O06979	Domain	133	349	Histidine kinase
+Q795K2	Topological domain	1	10	Extracellular
+Q795K2	Transmembrane	11	31	Helical
+Q795K2	Topological domain	32	38	Cytoplasmic
+Q795K2	Transmembrane	39	59	Helical
+Q795K2	Topological domain	60	71	Extracellular
+Q795K2	Transmembrane	72	92	Helical
+Q795K2	Topological domain	93	109	Cytoplasmic
+Q795K2	Transmembrane	110	130	Helical
+Q795K2	Topological domain	131	135	Extracellular
+Q795K2	Transmembrane	136	156	Helical
+Q795K2	Topological domain	157	371	Cytoplasmic
+Q795K2	Domain	187	368	Histidine kinase
+O31433	Transmembrane	1	21	Helical
+O31433	Topological domain	22	41	Extracellular
+O31433	Transmembrane	42	62	Helical
+O31433	Topological domain	63	320	Cytoplasmic
+O31433	Domain	67	120	HAMP
+O31433	Domain	135	320	Histidine kinase
+P16497	Domain	3	73	PAS 1
+P16497	Domain	77	116	PAC 1
+P16497	Domain	140	214	PAS 2
+P16497	Domain	218	255	PAC 2
+P16497	Domain	265	335	PAS 3
+P16497	Domain	402	606	Histidine kinase
+Q08430	Topological domain	1	6	Cytoplasmic
+Q08430	Transmembrane	7	27	Helical
+Q08430	Topological domain	28	37	Extracellular
+Q08430	Transmembrane	38	58	Helical
+Q08430	Topological domain	59	68	Cytoplasmic
+Q08430	Transmembrane	69	89	Helical
+Q08430	Topological domain	90	99	Extracellular
+Q08430	Transmembrane	100	120	Helical
+Q08430	Topological domain	121	132	Cytoplasmic
+Q08430	Transmembrane	133	153	Helical
+Q08430	Topological domain	154	166	Extracellular
+Q08430	Transmembrane	167	187	Helical
+Q08430	Topological domain	188	428	Cytoplasmic
+Q08430	Domain	218	426	Histidine kinase
+O31671	Transmembrane	17	37	Helical
+O31671	Transmembrane	250	270	Helical
+O31671	Domain	298	505	Histidine kinase
+O31661	Domain	29	99	PAS 1
+O31661	Domain	150	220	PAS 2
+O31661	Domain	271	342	PAS 3
+O31661	Domain	391	462	PAS 4
+O31661	Domain	523	729	Histidine kinase
+P70954	Transmembrane	4	24	Helical
+P70954	Transmembrane	27	47	Helical
+P70954	Transmembrane	72	82	Helical
+P70954	Domain	132	318	Histidine kinase
+O34989	Topological domain	1	6	Cytoplasmic
+O34989	Transmembrane	7	27	Helical
+O34989	Topological domain	28	261	Extracellular
+O34989	Transmembrane	262	282	Helical
+O34989	Topological domain	283	580	Cytoplasmic
+O34989	Domain	363	580	Histidine kinase
+O32198	Topological domain	1	15	Cytoplasmic
+O32198	Transmembrane	16	36	Helical
+O32198	Topological domain	37	47	Extracellular
+O32198	Transmembrane	48	68	Helical
+O32198	Topological domain	69	360	Cytoplasmic
+O32198	Domain	74	126	HAMP
+O32198	Domain	153	346	Histidine kinase
+O34757	Topological domain	1	10	Extracellular
+O34757	Transmembrane	11	31	Helical
+O34757	Topological domain	32	36	Cytoplasmic
+O34757	Transmembrane	37	57	Helical
+O34757	Topological domain	58	70	Extracellular
+O34757	Transmembrane	71	91	Helical
+O34757	Topological domain	92	103	Cytoplasmic
+O34757	Transmembrane	104	124	Helical
+O34757	Topological domain	125	128	Extracellular
+O34757	Transmembrane	129	149	Helical
+O34757	Topological domain	150	370	Cytoplasmic
+O34757	Domain	186	369	Histidine kinase
+P42422	Topological domain	1	8	Cytoplasmic
+P42422	Transmembrane	9	29	Helical
+P42422	Topological domain	30	33	Extracellular
+P42422	Transmembrane	34	54	Helical
+P42422	Topological domain	55	325	Cytoplasmic
+P42422	Domain	118	325	Histidine kinase
